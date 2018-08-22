@@ -1,7 +1,7 @@
 # Salzburg Research ForschungsgesmbH
 # Armin Niedermueller
 
-# OPC UA Server on PiXtend
+# OPC UA Client on Sensor Pi
 
 from opcua import Client, ua
 from opcua.ua import ua_binary as uabin
@@ -21,20 +21,14 @@ class HelloClient:
 
 
 if __name__ == '__main__':
-    with HelloClient("opc.tcp://localhost:40840/freeopcua/server/") as client:
+    with HelloClient("opc.tcp://192.168.48.42:4840/freeopcua/server/") as client:
         root = client.get_root_node()
         print("Root node is: ", root)
         objects = client.get_objects_node()
         print("Objects node is: ", objects)
 
-        hellower = objects.get_child("0:Hellower")
-        print("Hellower is: ", hellower)
+        belt_mover = objects.get_child("0:belt_mover")
+        print("belt_mober is: ", belt_mover)
 
-        resulting_text = hellower.call_method("0:SayHello", False)
+        resulting_text = hellower.call_method("0:belt_mover", 10, True)
         print(resulting_text)
-
-        resulting_text = hellower.call_method("1:SayHello2", True)
-        print(resulting_text)
-
-        resulting_array = hellower.call_method("1:SayHelloArray", False)
-        print(resulting_array)
