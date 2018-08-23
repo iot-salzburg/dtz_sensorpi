@@ -25,8 +25,11 @@ if __name__ == '__main__':
         root = client.get_root_node()
         print("Root node is: ", root)
 
-        methods = client.get_objects_node("Methods")
-        print("Methods node is: ", methods)
+        objects = client.get_objects_node()
+        print("Objects node is: ", objects)    
 
-        result = belt_mover.call_method("move_belt", [True, 10])
+        mover = objects.get_child("0:Mover")
+        print("Mover is: ", mover)
+
+        result = mover.call_method("0:Move", True)
         print(result)
