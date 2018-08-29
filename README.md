@@ -22,11 +22,16 @@ sudo apt-get install build-essential python-dev3
 sudo python3 setup.py install
 ```
 
-In this git folder:
+In your home folder:
     
 ```bash
+git clone https://github.com/iot-salzburg/dtz_sensorpi.git
+
+cd dtz_sensorpi
+
 sudo pip3 install -r requirements.txt
 ```
+
 
 ### Starting the script
 ```bash
