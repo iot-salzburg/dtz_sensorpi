@@ -1,0 +1,91 @@
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=3062), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=3063), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=24), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=31), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=3068), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=12170), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=3067), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=3069), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=3070), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=11433), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=11498), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=15002), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=12908), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=11512), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=11513), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=11432), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=3071), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=12745), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=3072), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=3073), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=16306), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=58), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=62), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=78), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=80), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=83), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=79), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=11508), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=11510), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=84), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=15957), requested parent node NumericNodeId(i=11715) does not exists
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=15958), requested parent node NumericNodeId(i=15957) does not exists
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=15959), requested parent node NumericNodeId(i=15957) does not exists
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=15960), requested parent node NumericNodeId(i=15957) does not exists
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=15961), requested parent node NumericNodeId(i=15957) does not exists
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=15962), requested parent node NumericNodeId(i=15957) does not exists
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=15963), requested parent node NumericNodeId(i=15957) does not exists
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=15964), requested parent node NumericNodeId(i=15957) does not exists
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=16134), requested parent node NumericNodeId(i=15957) does not exists
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=16135), requested parent node NumericNodeId(i=15957) does not exists
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=16136), requested parent node NumericNodeId(i=15957) does not exists
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=16314), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=11214), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=11202), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=11215), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=2341), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=2342), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=2343), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=11285), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=2344), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=11304), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=2346), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=2347), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=2348), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=2349), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=2350), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=11286), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=11287), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=11305), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=11306), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=11288), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=2351), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=2352), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=11307), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=11308), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=2355), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=2357), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=2358), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=2359), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=11505), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=11506), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=11507), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=2360), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=2361), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=2362), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=2363), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=2364), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=11292), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=11426), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=11427), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=11428), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.address_space:add_node: while adding node NumericNodeId(i=11429), requested parent node is null TwoByteNodeId(i=0) True
+INFO:opcua.server.internal_server:Created internal session Internal
+WARNING:opcua.server.server:Endpoints other than open requested but private key and certificate are not set.
+INFO:opcua.server.internal_server:starting internal server
+WARNING:opcua.server.binary_server_asyncio:Listening on 0.0.0.0:4840
+INFO:root:OPCUA - FH Emulation on SensorPi - Server started at opc.tcp://0.0.0.0:4840/freeopcua/server
+INFO:opcua.server.binary_server_asyncio:Closing asyncio socket server
+INFO:opcua.server.internal_server:stopping internal server
+INFO:opcua.server.internal_server:close session InternalSession(name:Internal, user:User.Admin, id:NumericNodeId(i=10), auth_token:NumericNodeId(i=1000)) with subscriptions []
+INFO:opcua.server.subscription_service:delete subscriptions: []
