@@ -15,7 +15,6 @@ import psutil
 import Adafruit_DHT
 from socket import gethostname
 import paho.mqtt.publish as publish
-import matplotlib.pyplot as plt  # import the grafic-module as plt
 
 import RPi.GPIO as GPIO  # import the GPIO to use the Pins
 from mcp3208 import MCP3208

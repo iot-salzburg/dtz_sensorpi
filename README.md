@@ -35,7 +35,12 @@ sudo pip3 install -r requirements.txt
 
 ### Starting the script
 ```bash
-python3 dht-sensor.py
+python3 measurement.py
 ```
 
 
+## TODO:
+
+* Check MQTT connection
+* test init script
+* document hardware

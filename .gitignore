@@ -1,2 +1,4 @@
 data/*
 measurement.py.save*
+old_opc/
+__pycache__/
