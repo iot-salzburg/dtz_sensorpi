@@ -44,3 +44,4 @@ python3 measurement.py
 * Check MQTT connection
 * test init script
 * document hardware
+* Autostart service
