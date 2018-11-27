@@ -2,3 +2,4 @@ data/*
 measurement.py.save*
 old_opc/
 __pycache__/
+install_sensorpi.sh

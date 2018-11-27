@@ -1,0 +1,13 @@
+[Unit]
+Description=SensorPi: measuring the DTZ lab's energy consumption, as well as temperature and humidity.
+After=network.target
+
+[Service]
+User=pi
+Group=pi
+WorkingDirectory=/home/pi/dtz_sensorpi
+ExecStart=/usr/bin/python3 /home/pi/dtz_sensorpi/measurement.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

@@ -1,3 +1,4 @@
+
 # IoT Sensor Node
 
 The node running this scripts is provides IoT
@@ -39,9 +40,32 @@ python3 measurement.py
 ```
 
 
+### Set up Autostart service
+
+```bash
+sudo cp configs/sensorpi.service /etc/systemd/system/
+sudo systemctl daemon-reload
+sudo systemctl enable sensorpi.service
+sudo service sensorpi start
+```
+
+Check if the service works
+
+```bash
+sudo service sensorpi status
+```
+
+and check on the node-red mqtt broker [http://il081:1880](http://il081:1880/)
+with the settings:
+
+* Server = 192.168.48.81
+* Port = 1883
+* topic = sensorpi/#
+
+
+
 ## TODO:
 
-* Check MQTT connection
 * test init script
 * document hardware
 * Autostart service

@@ -29,22 +29,21 @@ read_intervall = 0.2  # 200 ms
 QUANTILE = 0.95
 
 mqtt_broker = "il081"
-SEND_IDLE = 10  # send every .. s if below a threshold
-SEND_ACTIVE = 1 # send every .. s if over a threshold
+SEND_IDLE = 60  # send every .. s if below a threshold
+SEND_ACTIVE = 10 # send every .. s if over a threshold
 THRESHOLD = 0.01  # Threshold for sending currents in A
 
 # initialize MCP 3208 with its resolution and pins:
-channels = [0,1]  # measure voltage on pins 0, 1
+channels = [0,1]  #TODO: install channels 3 and 4 # measure channels on output 0,1
+# 1: Panda
+# 2: Prusa
+# 3: PiXtend
+# 4: Misc.
 
 # MCP 3208 has a resolution of 12 bits, that means there are 2^12 states
 # starting with state 0
 resolution = 4095
 
-### set pins to connect the MCP 3208 to the rpi
-##CLK = 11  # Clock
-##MISO = 9  # Master (rpi) in, Slave (MCP) out
-##MOSI = 10  # Master out, Slace in
-##CS = 8  # Chip Select (Master (rpi) can activate Slaves with this)
  # set pins to connect the MCP 3208 to the rpi
 CLK = 10  # Clock
 MISO = 9  # Master (rpi) in, Slave (MCP) out
