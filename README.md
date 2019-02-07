@@ -63,9 +63,3 @@ with the settings:
 * topic = sensorpi/#
 
 
-
-## TODO:
-
-* test init script
-* document hardware
-* Autostart service
