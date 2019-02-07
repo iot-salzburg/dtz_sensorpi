@@ -28,7 +28,7 @@ sample_rate = 1000  # 1000 Sample per second
 read_intervall = 0.2  # 200 ms
 QUANTILE = 0.95
 
-mqtt_broker = "il081"
+mqtt_broker = "192.168.48.81"
 SEND_IDLE = 60  # send every .. s if below a threshold
 SEND_ACTIVE = 10 # send every .. s if over a threshold
 THRESHOLD = 0.01  # Threshold for sending currents in A
