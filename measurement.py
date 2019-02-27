@@ -34,7 +34,7 @@ SEND_ACTIVE = 10 # send every .. s if over a threshold
 THRESHOLD = 0.01  # Threshold for sending currents in A
 
 # initialize MCP 3208 with its resolution and pins:
-channels = [0,1]  #TODO: install channels 3 and 4 # measure channels on output 0,1
+channels = [0,1,2,3]  # measure channels on power socket 0,1,2,3
 # 1: Panda
 # 2: Prusa
 # 3: PiXtend
